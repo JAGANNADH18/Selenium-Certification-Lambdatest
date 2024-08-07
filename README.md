@@ -1,7 +1,3 @@
-# selenium_101_certification
-![LambdaTest Logo](https://github.com/hodehoujolive/selenium_101_certification/blob/master/S101-NH5B2N.jpeg)
---- 
-
 ### Step 1 : Environment Setup
 
 #### Lambdatest Credentials
